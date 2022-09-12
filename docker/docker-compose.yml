@@ -1,0 +1,4 @@
+# version: '1'
+# services:
+#   nginx:
+#     image: nginx:1.21.3-alpine
