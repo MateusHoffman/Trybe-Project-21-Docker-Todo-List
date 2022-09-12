@@ -1,10 +1,10 @@
-FROM node
+FROM node:14
 
 WORKDIR /app
 
-COPY package*.json ./
+EXPOSE 3001
 
-RUN npm install
+ADD node_modules.tar.gz ./
 
 COPY . .
 
