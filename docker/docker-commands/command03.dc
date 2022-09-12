@@ -1,1 +1,1 @@
-docker stats 01container
+docker ps -f name=01container
