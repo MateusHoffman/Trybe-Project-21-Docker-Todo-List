@@ -7,7 +7,6 @@ services:
     depends_on:
       - todofront
       - todoback
-    restart: always
     environment:
     - FRONT_HOST=todofront
 
@@ -17,7 +16,6 @@ services:
       - todoback
     ports:
       - 3000:3000
-    restart: always
     environment:
       - REACT_APP_API_HOST=todoback
 
@@ -25,4 +23,3 @@ services:
     image: todobackend
     ports:
       - 3001:3001
-    restart: always
