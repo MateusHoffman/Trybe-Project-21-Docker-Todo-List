@@ -2,14 +2,15 @@
 
 ## :hammer_and_wrench: Tools/Ferramentas
 
-* TypeScript
-* OOP (Object-Oriented Programming)
-* SOLID
+* Docker
+* Docker compose
+* Dockerfile
+* Javascript
 
 ## NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/c.png"/>
+	<img src="img/grade.png"/>
 </div>
 
 ## Connect with me:
