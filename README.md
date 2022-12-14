@@ -2,7 +2,7 @@
 
 ## :hammer_and_wrench: Tools/Ferramentas
 
-* Docker
+* Docker 
 * Docker compose
 * Dockerfile
 * Javascript
